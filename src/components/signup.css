@@ -1,13 +1,14 @@
-.card-body2{
-    background-image: url(../assets/signup.jpg);
-    background-size:cover;
-    color:white;
-    padding:2rem;
-    letter-spacing: 3px;
-    font-size: large;
-    display: flex;
-    flex-direction:column;
+.card-body2 {
+  background: linear-gradient(rgba(67, 66, 66, 0.6), rgba(44, 44, 44, 0.6)),
+    url("../assets/signup.jpg");
+  background-size: cover;
+  color: white;
+  padding: 1rem;
+  letter-spacing: 2px;
+  font-size: large;
+  display: flex;
+  flex-direction: column;
 }
-.card-body{
-    background-color: transparent;
+.card-body {
+  background-color: transparent;
 }
